@@ -12,3 +12,5 @@ utilizar o back end no desse projeto
 https://github.com/DanielCavin/Cadastro-Usuario-Backend
 # inicializar 
 npm start
+# Publicação no Linkedin <br/>
+https://www.linkedin.com/feed/update/urn:li:activity:6641727640229203968/
